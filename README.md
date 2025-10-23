@@ -60,7 +60,3 @@ These steps were completed using SQL functions like *AVG()*, *SUM()*, *CASE WHEN
 ## Tools Used  
 - **MYSQL**   
 - **Excel**  
-
-
-### 📁 Folder Structure  
-
