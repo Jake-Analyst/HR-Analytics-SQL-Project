@@ -18,7 +18,7 @@ This analysis answers these questions using SQL — no extra tools, just logic a
 
 ## Methodology  
 1. **Retrieve** all data from both the *employee_salary* and *employee_demographics* tables.  
-2. **Join** both datasets on `employee_id` to combine job and personal information.  
+2. **Join** both datasets on *employee_id* to combine job and personal information.  
 3. Calculate the **average salary per department** to identify pay trends.  
 4. Determine **occupations with the highest average salaries**.  
 5. List the **top 5 highest-paid employees** and their job roles.  
@@ -33,7 +33,7 @@ These steps were completed using SQL functions like *AVG()*, *SUM()*, *CASE WHEN
 ## Skills Demonstrated  
 - SQL Data Manipulation and Exploration  
 - JOINs and Subqueries  
-- Conditional Logic with `CASE WHEN`  
+- Conditional Logic with *CASE WHEN*  
 - Aggregation and Grouping  
 - Data Categorization and Filtering  
 - Business-Oriented Analytical Thinking
