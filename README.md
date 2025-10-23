@@ -17,7 +17,7 @@ This analysis answers these questions using SQL — no extra tools, just logic a
 
 
 ## Methodology  
-1. **Retrieve** all data from both the `employee_salary` and `employee_demographics` tables.  
+1. **Retrieve** all data from both the *employee_salary* and *employee_demographics* tables.  
 2. **Join** both datasets on `employee_id` to combine job and personal information.  
 3. Calculate the **average salary per department** to identify pay trends.  
 4. Determine **occupations with the highest average salaries**.  
@@ -27,7 +27,7 @@ This analysis answers these questions using SQL — no extra tools, just logic a
 8. Measure **gender distribution** across the organization.  
 9. Group employees into **young (<36)** and **old (≥36)** categories to observe age patterns by occupation.
 
-These steps were completed using SQL functions like `AVG()`, `SUM()`, `CASE WHEN`, `GROUP BY`, and `GROUP_CONCAT()`.
+These steps were completed using SQL functions like *AVG()*, *SUM()*, *CASE WHEN*, *GROUP BY*, and *GROUP_CONCAT()*.
 
 
 ## Skills Demonstrated  
@@ -57,7 +57,7 @@ These steps were completed using SQL functions like `AVG()`, `SUM()`, `CASE WHEN
 
 ---
 
-## 🧩 Tools Used  
+## Tools Used  
 - **MYSQL**   
 - **Excel**  
 
