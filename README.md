@@ -13,7 +13,7 @@ Questions such as:
 - Are men and women paid equally for similar roles?  
 - What does the company’s age distribution look like?  
 
-This analysis answers these questions using SQL — no extra tools, just logic and clean data manipulation.
+This analysis answers these questions using SQL,no extra tools, just logic and clean data manipulation.
 
 
 ## Methodology  
@@ -25,7 +25,7 @@ This analysis answers these questions using SQL — no extra tools, just logic a
 6. Identify employees whose **total salary is above the company average**.  
 7. Analyze the **gender pay gap** across occupations.  
 8. Measure **gender distribution** across the organization.  
-9. Group employees into **young (<36)** and **old (≥36)** categories to observe age patterns by occupation.
+9. Group employees into **young** and **old** categories to observe age patterns by occupation.
 
 These steps were completed using SQL functions like *AVG()*, *SUM()*, *CASE WHEN*, *GROUP BY*, and *GROUP_CONCAT()*.
 
