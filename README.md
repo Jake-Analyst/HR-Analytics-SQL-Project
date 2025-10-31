@@ -1,4 +1,10 @@
 # HR-Analytics-SQL-Project
+
+## Employee Database Schema
+
+### Visual Diagram
+![Employee Database Diagram](SQL_tables.png)
+
 An SQL-driven HR analytics project that examines salary distribution, gender pay gaps, and workforce age patterns to support data-driven decision-making in human resource management.
 
 ## Executive Summary  
