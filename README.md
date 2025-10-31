@@ -1,4 +1,4 @@
-# HR-Analytics-SQL-Project
+# HR Analytics SQL Project
 
 ## Employee Database Schema
 
