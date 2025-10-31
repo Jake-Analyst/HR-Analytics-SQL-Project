@@ -3,7 +3,7 @@
 ## Employee Database Schema
 
 ### Visual Diagram
-<img src="SQL_tables.png" alt="Employee Database Diagram" width="800">
+![Employee Database Diagram](SQL_tables.png)
 
 An SQL-driven HR analytics project that examines salary distribution, gender pay gaps, and workforce age patterns to support data-driven decision-making in human resource management.
 
