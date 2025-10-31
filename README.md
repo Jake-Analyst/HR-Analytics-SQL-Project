@@ -5,26 +5,6 @@
 ### Visual Diagram
 ![Employee Database Diagram](SQL_tables.png)
 
-### Diagram Code
-```sql
-Table employee_demographics {
-  employee_id int [pk]        // Primary key
-  first_name varchar
-  last_name varchar
-  age int
-  gender varchar
-  birth_date date
-}
-
-Table employee_salary {
-  employee_id int [pk]        // Primary key
-  occupation varchar
-  salary decimal
-  dept_id int
-}
-
-Ref: employee_salary.employee_id > employee_demographics.employee_id
-
 
 An SQL-driven HR analytics project that examines salary distribution, gender pay gaps, and workforce age patterns to support data-driven decision-making in human resource management.
 
