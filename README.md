@@ -49,7 +49,7 @@ These steps were completed using SQL functions like *AVG()*, *SUM()*, *CASE WHEN
 
 ## Results and Insights  
 - Some departments showed significantly higher average salaries, indicating possible pay concentration.
-  ![departments by their average salaries](departements%20by%20their%20average%20salaries.png)
+![departments by their average salaries](departements%20by%20their%20average%20salaries.png)
 - Noticeable **gender pay gaps** existed in some roles, suggesting room for review and correction.
  ![Gender pay gap](images/Gender%20pay%20gap.png)
 - The **age distribution** revealed younger employees dominating certain roles and older employees in more senior positions.
