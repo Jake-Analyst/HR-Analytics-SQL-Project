@@ -4,10 +4,6 @@
 
 ### Visual Diagram
 ![Employee Database Diagram](SQL_tables.png)
-## Employee Database Schema
-
-### Visual Diagram
-![Employee Database Diagram](SQL_tables.png)
 
 ### Diagram Code
 ```sql
